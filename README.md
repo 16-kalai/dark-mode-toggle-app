@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dark-mode-toggle-app
 The Dark Mode Toggle App is my first React Native app that allows users to switch between dark and light themes with a single button press. It automatically detects the system theme on launch and features a minimal, visually appealing UI. Perfect for showcasing theme toggling functionality in mobile applications.
 ## Features
@@ -26,7 +25,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/dark-mode-toggle-app.git
+git clone https://github.com/16-kalai/dark-mode-toggle-app.git
 cd dark-mode-toggle-app
 Install dependencies:
 
@@ -49,7 +48,9 @@ Usage
 After starting the app, you’ll see "Hello World!" in either dark mode or light mode, depending on the current theme setting. Tap the button to toggle between light and dark modes.
 
 Screenshots
-Light Mode	Dark Mode
+
+![image](https://github.com/user-attachments/assets/7415985e-c47c-41fa-b276-ad9b08211030) ![image](https://github.com/user-attachments/assets/1cb41b43-196b-4090-b2b2-b6e13eed442a)
+
 Customization
 To customize the colors or text:
 
@@ -62,4 +63,3 @@ JavaScript/JSX: For component creation and UI logic.
 React Hooks: Using useState for managing theme state.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
->>>>>>> c740dcd (Initial commit)
